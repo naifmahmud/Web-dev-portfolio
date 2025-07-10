@@ -152,3 +152,16 @@ main section{
     padding: 50px 33px 30px 30px;
     box-shadow: 0 6px 50px 0;
 }
+
+/* Resume portion */
+.resume-container{
+    display: flex;
+    gap: 25px;
+}
+.experience-description,.experience-subtitle {
+    color: #757575;
+}
+.experience{
+    width: 511px;
+    height: 175px;
+}
