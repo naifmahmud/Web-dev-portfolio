@@ -165,3 +165,19 @@ main section{
     width: 511px;
     height: 175px;
 }
+.footers{
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+}
+.form1{
+    size: 30px;
+    display: block;
+}
+.footer-column1{
+    border: 562px;
+    border-radius: 5;
+    margin: 10px;
+    padding: 0 50px;
+
+}
